@@ -22,6 +22,8 @@ https://github.com/wizeline/wizekit-slack-app
 
 # Deployment
 
-Currently, the backend deploy script will deploy both backend and frontend at once.
+The project is deploying on firebase at: https://wizekit-app-065aa1bc.web.app/
 
-https://github.com/wizeline/wizekit-slack-app/blob/main/cloudbuild/gae.yaml
+via cloudbuild script: https://github.com/wizeline/wizekit-slack-app-fe/blob/main/cloudbuild.yaml
+
+following this tutorial: https://cloud.google.com/cloud-build/docs/deploying-builds/deploy-firebase
